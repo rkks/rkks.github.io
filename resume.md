@@ -99,5 +99,5 @@ Open Source Contributions
 
 **13 yrs** in industry, **3** blockbuster products, >**$18M** revenue, **#1** in academia, **827+** bugs, **3** papers, ... counting
 
-**NOTE:** This resume is generated using markdown text and pandoc. Latest updated resume is at [webpage](https://rkks.github.io/resume.html),
-[pdf](https://rkks.github.io/resume.pdf)
+**NOTE:** This resume is generated using markdown text, pandoc. Latest updated resume is at [html](https://rkks.github.io/resume.html),
+[pdf](https://rkks.github.io/resume.pdf), [docx](https://rkks.github.io/resume.docx)
