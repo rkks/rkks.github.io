@@ -4,21 +4,12 @@ Ravikiran K.S.
 
 ----
 
-*Curious programmer* who has **solved complex problems** under tight *deadlines*, and delivered **quality** software.
-Has **hands-on experience** of writing sofware for **network elements** like switch, router, gateway, load-balancer.
-Frequently **prototypes new ideas** on *latest technology trends* to identify and deliver new **competitive features**.
-He is obsessed with efficiency, **automates as hobby**, listens to understand, learns from failures, **gets job done**.
+Ravi is *programmer, author, and inventor* residing in Bangalore. Over decade of **hands-on career**, he developed
+**#9** *network products*, of which **#3** have made >**$18M** *in revenue*. He ranks **#1** with **82%** *in Masters* under faculty
+of Computer Science at RD University, Jabalpur. He **pens papers** on networking topics, contributes to **FOSS** in
+free time. He is awarded **#6** times for *timely delivery* of products, *solving critical problems*, help in **design wins**.
 
 ----
-
-Profile
--------
-Ravikiran K.S. is a software engineer, author, and freelancer residing in Bangalore. He has over  **13 years** of
-*hands-on experience* in developing high-quality, scalable software solutions delivering line-rate performance.
-
-* He is ranked **#1** with ***82%*** in Masters under faculty of Computer Science at RD University, Jabalpur.
-* He is awarded ***#6*** times for timely delivery of products, solving critical problems, and help in design wins.
-* He has delivered **#9** products till date, of which *#2 as sole developer*, which are commercially **successful**.
 
 Authored Articles
 -----------------
@@ -96,6 +87,11 @@ Open Source Contributions
 - [Misc Projects, Works](https://github.com/rkks)
 
 ----
+
+*Curious programmer* who has **solved complex problems** under tight *deadlines*, and delivered **quality** software.
+Has **hands-on experience** of writing sofware for **network elements** like switch, router, gateway, load-balancer.
+Frequently **prototypes new ideas** on *latest technology trends* to identify and deliver new **competitive features**.
+He is obsessed with efficiency, **automates as hobby**, listens to understand, learns from failures, **gets job done**.
 
 **13 yrs** in industry, **3** blockbuster products, >**$18M** revenue, **#1** in academia, **827+** bugs, **3** papers, ... counting
 
