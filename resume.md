@@ -4,10 +4,12 @@ Ravikiran K.S.
 
 ----
 
-Ravi is *programmer, author, and inventor* residing in Bangalore. Over decade of **hands-on career**, he developed
-**#9** *network products*, of which **#3** have made >**$18M** *in revenue*. He ranks **#1** with **82%** *in Masters* under faculty
-of Computer Science at RD University, Jabalpur. He **pens papers** on networking topics, contributes to **FOSS** in
-free time. He is awarded **#6** times for *timely delivery* of products, *solving critical problems*, help in **design wins**.
+Ravi is a **programmer, author, and inventor** residing in Bangalore. Over a decade of **hands-on career**, he has
+developed **#9** [network products](https://rkks.github.io/resume.html#professional-summary) for top networking companies including **Cisco & Juniper**.
+Off #9, **#4 products** have made **>$28M** *in revenue*; **44%** success rate, while industry average is *[25%](https://www.wsj.com/articles/SB10000872396390443720204578004980476429190)*.
+In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at **[RD University, Jabalpur](http://www.rdunijbpin.org/)**.
+He *pens papers* on [networking topics](https://rkks.github.io/resume.html#authored-articles), contributes to *[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks [new technology](https://github.com/rkks) in his spare time.
+He is awarded **#6** times for *timely delivery* of products, *solving critical problems*, help in securing **design wins**.
 
 ----
 
@@ -28,8 +30,8 @@ Professional Summary
 Since 2015
 :   *Storage Networks Developer* for **[Cisco Systems, Inc.](http://www.cisco.com/)**
 
-As Individual Contributor, delivers FCoE access features on both  **[N9000 Leaf/Spine](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/FCoE/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x_chapter_0100.pdf)**
-& **[N7000 Core switches](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus7000/sw/fcoe/config/cisco_nexus7000_fcoe_config_guide/fcoe_over_fex.pdf)**.
+As Individual Contributor, delivers FCoE access features on **[N9000 Leaf/Spine](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/FCoE/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x_chapter_0100.pdf)**
+and **[N7000 DC Core switches](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus7000/sw/fcoe/config/cisco_nexus7000_fcoe_config_guide/fcoe_over_fex.pdf)**.
 Features are FCoE support for Fabric Extender, FEX Active-Active, vPC/MLAG, Phy-Port vPC, and FabricPath.
 Also delivers Linux LXC container based NXOS ISSU support for FCoE services, KLMs on N9000 ToR switches.
 
@@ -84,13 +86,11 @@ Open Source Contributions
 - [Ethernet Channel Bonding Driver enhancements](https://www.kernel.org/doc/Documentation/networking/bonding.txt)
 - [OpenSAF bug-fixes](http://devel.opensaf.org/)
 - [OpenSolaris bug-fixes](http://www.opensolaris.org/)
-- [Misc Projects, Works](https://github.com/rkks)
+- [Random Playbook](https://github.com/rkks)
 
 ----
 
 *Curious programmer* who has **solved complex problems** under tight *deadlines*, and delivered **quality** software.
-Has **hands-on experience** of writing sofware for **network elements** like switch, router, gateway, load-balancer.
-Frequently **prototypes new ideas** on *latest technology trends* to identify and deliver new **competitive features**.
 He is obsessed with efficiency, **automates as hobby**, listens to understand, learns from failures, **gets job done**.
 
 **13 yrs** in industry, **3** blockbuster products, >**$18M** revenue, **#1** in academia, **827+** bugs, **3** papers, ... counting
