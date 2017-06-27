@@ -9,7 +9,7 @@ developed **#9** [network products](https://rkks.github.io/resume.html#professio
 Off #9, **#4 products** have made **>$28M** *in revenue*; **44%** success rate, while industry average is *[25%](https://www.wsj.com/articles/SB10000872396390443720204578004980476429190)*.
 In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at **[RD University, Jabalpur](http://www.rdunijbpin.org/)**.
 He *pens papers* on [networking topics](https://rkks.github.io/resume.html#authored-articles), contributes to *[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks [new technology](https://github.com/rkks) in his spare time.
-He is awarded **#6** times for *timely delivery* of products, *solving critical problems*, help in securing **design wins**.
+He is awarded **#6** times for *timely delivery* of products, **solving critical problems**, and help in securing **design wins**.
 
 ----
 
