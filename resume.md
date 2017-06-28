@@ -5,11 +5,11 @@ Ravikiran K.S.
 ----
 
 Ravi is **programmer, author, and freelancer** residing in Bangalore. Over a decade of **hands-on career**, he has
-developed **#9** [network products](https://rkks.github.io/resume.html#professional-summary) for top networking companies including **Cisco, Juniper**.
-Among 9, **#4** products have made upwards of **$28M** *in revenue*; a **44% success rate**, while the industry average is [25%](https://www.wsj.com/articles/SB10000872396390443720204578004980476429190).
-In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at [RD University, Jabalpur](http://www.rdunijbpin.org/).
-He **pens papers** on [networking topics](https://rkks.github.io/resume.html#authored-articles), contributes to **[open-source](https://rkks.github.io/resume.html#open-source-contributions)**, and hacks [new tech](https://github.com/rkks) in his spare time.
-He is awarded **#6** times for *timely delivery* of products, **solving critical problems**, and help in securing **design wins**.
+developed **#9** *[network products](https://rkks.github.io/resume.html#professional-summary)* for top networking companies including **Cisco, Juniper**.
+Among 9, **#4 products** have made upwards of **$28M** *in revenue*; a **44% success rate**, while the industry average is *[25%](https://www.wsj.com/articles/SB10000872396390443720204578004980476429190)*.
+In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at *[RD University, Jabalpur](http://www.rdunijbpin.org/)*.
+He **pens papers** on *[networking topics](https://rkks.github.io/resume.html#authored-articles)*, contributes to the *[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks *[new techs](https://github.com/rkks)* in his spare time.
+He is awarded **#6** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
 
 ----
 
@@ -21,19 +21,19 @@ Authored Articles
 Core Competencies
 -----------------
 
-> Linux Containers . Kernel Programming . Platform Infra . Resiliency . Load Balancers . Open Source
-> NXOS . JUNOS . DCN . VLAN . VNTAG . VEPA . VRRP . IS-IS . SCTP . MLAG . FCoE . LLDP . SAF
-> Broadcom Trident2 . Netlogic XLR/P . Fulcrum Bali . 6Wind FastPath . Mindspeed . Bonding Driver
+DC Networks . Linux Kernel Network Stack . Platform Infra . Resiliency . Load Balancer . Docker . Bonding Driver
+NXOS . JUNOS . DPI . VLAN . VNTAG . LAG . VRRP . IS-IS . SCTP . MLAG . FCoE . LLDP . SAF. LXC . STP
+Broadcom Trident2 . Netlogic XLR/XLP . Fulcrum Bali . 6Wind FastPath . MSPD Comcerto 2K . Proprietary ASIC
 
 Professional Summary
 --------------------
 Since 2015
 :   *Storage Networks Developer* for **[Cisco Systems, Inc.](http://www.cisco.com/)**
 
-As Individual Contributor, delivers FCoE access feature on *[N9000 DC Leaf/Spine](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/FCoE/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x_chapter_0100.pdf)*
-and *[N7000 DC Core switches](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus7000/sw/fcoe/config/cisco_nexus7000_fcoe_config_guide/fcoe_over_fex.pdf)*.
+As Individual Contributor, delivers FEX access features on *[N9000 DC Leaf/Spine](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/FCoE/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x_chapter_0100.pdf)*
+and *[N7000 DC Core](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus7000/sw/fcoe/config/cisco_nexus7000_fcoe_config_guide/fcoe_over_fex.pdf)* switches.
 Features are FCoE support for Fabric Extender, FEX Active-Active, vPC/MLAG, Phy-Port vPC, and FabricPath.
-Also delivers Linux *[LXC container based NXOS ISSU](https://blogs.cisco.com/datacenter/data-center-high-availability-redefined)* support for FCoE services, KLMs on N9000 ToR switches.
+Also delivers Linux *[LXC container based NXOS ISSU](https://blogs.cisco.com/datacenter/data-center-high-availability-redefined)* support for network services, KLMs on N9K ToR switches.
 
 - Develops innovative feature for system-wide runtime debug trace logging without affecting performance.
 - Ravi is **invited for presenting it to NXOS Architecture Forum** and feature is used on all product lines.
@@ -77,7 +77,7 @@ HA using DFTHA layer, Control plane HA using SAF checkpoint service, and Chassis
 for design, code and testing of **complex SAF-Trillium integration layer** that represents core value-add of product offering.
 
 2004 - 2006
-:   *Freelance Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#freelance-consultations)**
+:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#freelance-consultations)**
 
 As a Technology Consultant, he has helped in **feasibility analysis by prototyping**, **solving design challenges**,
 implementation nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
@@ -85,15 +85,21 @@ Majority work is ghost-writing, no attribution. References are provided when pos
 
 Open Source Contributions
 -------------------------
-- [Ethernet Channel Bonding Driver enhancements](https://www.kernel.org/doc/Documentation/networking/bonding.txt)
-- [OpenSAF bug-fixes](http://devel.opensaf.org/)
-- [OpenSolaris bug-fixes](http://www.opensolaris.org/)
-- [Random Playbook](https://github.com/rkks)
+- [Ethernet Channel Bonding Driver enhancements](https://www.kernel.org/doc/Documentation/networking/bonding.txt). Stock driver
+consumes >18% bandwidth for keep-alives. The failover time is in order of several seconds. Attempt is to reduce total bandwidth
+usage to less than 5% and improve failover time to 3msec. Also, enhance failure detection to identify external network failures.
+- [OpenSAF bug-fixes](http://devel.opensaf.org/). During bringup and performance validation of Open-SAF in initial days of release,
+had multiple bugs in the areas of tipc, sai, checkpoint and event services. Those issues are identified and fixed.
+- [OpenSolaris bug-fixes](http://www.opensolaris.org/). Real-time mirroring FS and NIC-teaming driver is built around Solaris DDI/DKI API.
+OpenSolaris announcement brings opportunity to study solaris kernel, harden our code, as well as fix bugs
+found in OpenSolaris code. Bugs around DLPI metadata, raw socket mirroring, RX-ring scheduling fixed.
+- [Random Playbook](https://github.com/rkks). Tech hacks, protos, and eval tests. Mostly used for feasibility analysis,
+for ramping up on technology, quick-n-dirty checks, and miscellaneous stuff.
 
-Freelance Consultations
------------------------
+Consultation Jobs
+-----------------
 - SCTP based out-of-box, stateful, *[L4 load-balancer design](http://www.lisletech.com/)* for SS7 tunneling and services protocols.
-- *[Line-rate IPSec Encryption Gateway](www.stoke.com)* optimization and debugging packet-path. It uses Netlogic XLP NPUs.
+- *[Line-rate IPSec Encryption Gateway](http://www.stoke.com)* optimization and debugging packet-path. It uses Netlogic XLP NPUs.
 - LTE ENodeB stack porting, optimization on low-powered *[Mindspeed ARM processors](http://www.businesswire.com/news/home/20120611005536/en/Mindspeed-Announces-High-Performance-Multi-Core-ARM-Cortex-A-CPU-Based)* using 4GMX OS.
 - Fix critical kernel bugs for *[real-time mirroring file-system](http://go.ccpu.com/upSuite)* and related resilience infra on Solaris servers.
 - *[J2ME Mobile App and JSF Web platform](http://sakhatech.com/)* for seemless sync of mobile DB to Cloud server over internet.
@@ -102,8 +108,8 @@ Freelance Consultations
 
 ----
 
-**Curious coder**, who works under *tight deadlines*, **automates as hobby**, *listens to understand*, **gets job done**.
+**Curious coder**, who delivers under *tight deadlines*, **automates as hobby**, *listens to understand*, **gets job done**.
 **13 yrs** in industry, **4** blockbuster products, >**$28M** in revenue, **#1** in academia, **827+** bugs solved, **2** papers, .....
 
-**NOTE:** This resume is generated using markdown text, pandoc. Latest updated resume is at: [html](https://rkks.github.io/resume.html),
+**NOTE:** This resume is generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/resume.html),
 [pdf](https://rkks.github.io/resume.pdf), [docx](https://rkks.github.io/resume.docx)
