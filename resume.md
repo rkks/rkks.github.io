@@ -111,5 +111,5 @@ Consultation Jobs
 **Curious coder**, who delivers under *tight deadlines*, **automates as hobby**, *listens to understand*, **gets job done**.
 **13 yrs** in industry, **4** blockbuster products, >**$28M** in revenue, **#1** in academia, **827+** bugs solved, **2** papers, .....
 
-**NOTE:** This resume is generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/resume.html),
-[pdf](https://rkks.github.io/resume.pdf), [docx](https://rkks.github.io/resume.docx)
+**NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/resume.html),
+[pdf](https://rkks.github.io/resume.pdf)
