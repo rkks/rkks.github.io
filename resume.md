@@ -4,11 +4,11 @@ Ravikiran K.S.
 
 ----
 
-Ravi is a **programmer, author, and inventor** residing in Bangalore. Over a decade of **hands-on career**, he has
-developed **#9** [network products](https://rkks.github.io/resume.html#professional-summary) for top networking companies including **Cisco & Juniper**.
-Off #9, **#4 products** have made **>$28M** *in revenue*; **44%** success rate, while industry average is *[25%](https://www.wsj.com/articles/SB10000872396390443720204578004980476429190)*.
+Ravi is **programmer, author, and freelancer** residing in Bangalore. Over a decade of **hands-on career**, he has
+developed **#9** [network products](https://rkks.github.io/resume.html#professional-summary) for top networking companies including **Cisco, Juniper**.
+Among 9, **#4** products have made upwards of **$28M** *in revenue*; a **44% success rate**, while industry average is *[25%](https://www.wsj.com/articles/SB10000872396390443720204578004980476429190)*.
 In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at **[RD University, Jabalpur](http://www.rdunijbpin.org/)**.
-He *pens papers* on [networking topics](https://rkks.github.io/resume.html#authored-articles), contributes to *[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks [new technology](https://github.com/rkks) in his spare time.
+He **pens papers** on [networking topics](https://rkks.github.io/resume.html#authored-articles), contributes to **[open-source](https://rkks.github.io/resume.html#open-source-contributions)**, and hacks [new tech](https://github.com/rkks) in his spare time.
 He is awarded **#6** times for *timely delivery* of products, **solving critical problems**, and help in securing **design wins**.
 
 ----
@@ -33,7 +33,7 @@ Since 2015
 As Individual Contributor, delivers FCoE access features on **[N9000 Leaf/Spine](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/FCoE/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x_chapter_0100.pdf)**
 and **[N7000 DC Core switches](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus7000/sw/fcoe/config/cisco_nexus7000_fcoe_config_guide/fcoe_over_fex.pdf)**.
 Features are FCoE support for Fabric Extender, FEX Active-Active, vPC/MLAG, Phy-Port vPC, and FabricPath.
-Also delivers Linux LXC container based NXOS ISSU support for FCoE services, KLMs on N9000 ToR switches.
+Also delivers Linux *[LXC container based NXOS ISSU](https://blogs.cisco.com/datacenter/data-center-high-availability-redefined)* support for FCoE services, KLMs on N9000 ToR switches.
 
 - Develops innovative feature for system-wide runtime debug trace logging without affecting performance.
 - Ravi is **invited for presenting it to NXOS Architecture Forum** and feature is used on all product lines.
@@ -77,9 +77,11 @@ HA using DFTHA layer, Control plane HA using SAF checkpoint service, and Chassis
 for design, code and testing of **complex SAF-Trillium integration layer** that represents core value-add of product offering.
 
 2004 - 2006
-:   *Freelance Developer* for **[Lisle Technology Partners](http://www.lisletech.com/)**, **[Sakha Tech Info Systems](http://sakhatech.com/)**
+:   *Freelance Developer* for various [Bangalore based startups](https://rkks.github.io/resume.html#freelance-consultations)
 
-Technology Consultant for **[system software](http://go.ccpu.com/upSuite)**, SBC solutions, mobile and **[web application](http://www.talentplus.com/)** development for Bangalore based startups.
+As a Technology Consultant for Bangalore based startups, he has helped in feasibility analysis **by prototyping**,
+**solving design challenges**, implementation nits, **critical bugs for timebound resolution**, and optimization.
+Majority work is ghost-writing, no attribution. References are provided when possible. Contact me, for details.
 
 Open Source Contributions
 -------------------------
@@ -88,12 +90,19 @@ Open Source Contributions
 - [OpenSolaris bug-fixes](http://www.opensolaris.org/)
 - [Random Playbook](https://github.com/rkks)
 
+Freelance Consultations
+-----------------------
+- SCTP based out-of-box, stateful, **[L4 load-balancer design](http://www.lisletech.com/)** for SS7 tunneling and services protocols.
+- **[Line-rate IPSec Security Gateway](www.stoke.com)** optimization and debugging. It uses Netlogic XLP NPUs for LC.
+- Fix critical kernel bugs for **[real-time mirroring file-system](http://go.ccpu.com/upSuite)** and related resilience infra on Solaris servers.
+- **[J2ME Mobile App and Web platform](http://sakhatech.com/)** for seemless sync of mobile DB to central server over internet.
+- **[MANET protos](https://github.com/rkks/play/)** for ad-hoc mobile gaming, sensor protos using Gumstix SBC for agri sector.
+- AJAX integration for **[HR Management Web App](http://www.talentplus.com/)** using Java frameworks viz. Struts, Spring, JSP.
+
 ----
 
-*Curious programmer* who has **solved complex problems** under tight *deadlines*, and delivered **quality** software.
-He is obsessed with efficiency, **automates as hobby**, listens to understand, learns from failures, **gets job done**.
+*Curious coder*, who works under *tight deadlines*, **automates as hobby**, listens to understand, **gets job done**.
+**13 yrs** in industry, **4** blockbuster products, >**$28M** revenue, **#1** in academia, **827+** bugs, **2** papers, ... counting
 
-**13 yrs** in industry, **3** blockbuster products, >**$18M** revenue, **#1** in academia, **827+** bugs, **3** papers, ... counting
-
-**NOTE:** This resume is generated using markdown text, pandoc. Latest updated resume is at [html](https://rkks.github.io/resume.html),
+**NOTE:** This resume is generated using markdown text, pandoc. Latest updated resume is at: [html](https://rkks.github.io/resume.html),
 [pdf](https://rkks.github.io/resume.pdf), [docx](https://rkks.github.io/resume.docx)
