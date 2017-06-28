@@ -77,7 +77,7 @@ HA using DFTHA layer, Control plane HA using SAF checkpoint service, and Chassis
 for design, code and testing of **complex SAF-Trillium integration layer** that represents core value-add of product offering.
 
 2004 - 2006
-:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#freelance-consultations)**
+:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#consultation-jobs)**
 
 As a Technology Consultant, he has helped in **feasibility analysis by prototyping**, **solving design challenges**,
 implementation nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
