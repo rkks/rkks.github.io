@@ -6,8 +6,8 @@ Ravikiran K.S.
 
 Ravi is **programmer, author, and freelancer** residing in Bangalore. Over a decade of **hands-on career**, he has
 developed **#9** [network products](https://rkks.github.io/resume.html#professional-summary) for top networking companies including **Cisco, Juniper**.
-Among 9, **#4** products have made upwards of **$28M** *in revenue*; a **44% success rate**, while industry average is *[25%](https://www.wsj.com/articles/SB10000872396390443720204578004980476429190)*.
-In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at **[RD University, Jabalpur](http://www.rdunijbpin.org/)**.
+Among 9, **#4** products have made upwards of **$28M** *in revenue*; a **44% success rate**, while the industry average is [25%](https://www.wsj.com/articles/SB10000872396390443720204578004980476429190).
+In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at [RD University, Jabalpur](http://www.rdunijbpin.org/).
 He **pens papers** on [networking topics](https://rkks.github.io/resume.html#authored-articles), contributes to **[open-source](https://rkks.github.io/resume.html#open-source-contributions)**, and hacks [new tech](https://github.com/rkks) in his spare time.
 He is awarded **#6** times for *timely delivery* of products, **solving critical problems**, and help in securing **design wins**.
 
@@ -15,23 +15,23 @@ He is awarded **#6** times for *timely delivery* of products, **solving critical
 
 Authored Articles
 -----------------
-- **[Increasing Carrier-Class High Availability](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)** - [TechOnline](http://www.techonline.com/electrical-engineers/education-training/tech-papers/4137371/Increasing-Carrier-Class-Network-High-Availability), [PICMG-Embedded](http://picmg.mil-embedded.com/white-papers/white-carrier-class-high-availability/)
-- **[Load balancing between server blades within ATCA platforms](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)** - [TelecomAsia](https://www.telecomasia.net/content/load-balancing-between-server-blades-within-atca-platforms), [Radisys Blog](http://www.radisys.com/2012/load-balancing-in-atca-platforms/).
+- *[Increasing Carrier-Class High Availability](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)* - [TechOnline](http://www.techonline.com/electrical-engineers/education-training/tech-papers/4137371/Increasing-Carrier-Class-Network-High-Availability), [PICMG-Embedded](http://picmg.mil-embedded.com/white-papers/white-carrier-class-high-availability/)
+- *[Load balancing between server blades within ATCA platforms](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)* - [TelecomAsia](https://www.telecomasia.net/content/load-balancing-between-server-blades-within-atca-platforms), [Radisys Blog](http://www.radisys.com/2012/load-balancing-in-atca-platforms/).
 
 Core Competencies
 -----------------
 
 > Linux Containers . Kernel Programming . Platform Infra . Resiliency . Load Balancers . Open Source
 > NXOS . JUNOS . DCN . VLAN . VNTAG . VEPA . VRRP . IS-IS . SCTP . MLAG . FCoE . LLDP . SAF
-> Broadcom Trident2 . Netlogic XLR . Fulcrum Bali . 6Wind FastPath . Custom ASICs . Bonding Driver
+> Broadcom Trident2 . Netlogic XLR/P . Fulcrum Bali . 6Wind FastPath . Mindspeed . Bonding Driver
 
 Professional Summary
 --------------------
 Since 2015
 :   *Storage Networks Developer* for **[Cisco Systems, Inc.](http://www.cisco.com/)**
 
-As Individual Contributor, delivers FCoE access features on **[N9000 Leaf/Spine](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/FCoE/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x_chapter_0100.pdf)**
-and **[N7000 DC Core switches](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus7000/sw/fcoe/config/cisco_nexus7000_fcoe_config_guide/fcoe_over_fex.pdf)**.
+As Individual Contributor, delivers FCoE access feature on *[N9000 DC Leaf/Spine](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/FCoE/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x_chapter_0100.pdf)*
+and *[N7000 DC Core switches](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus7000/sw/fcoe/config/cisco_nexus7000_fcoe_config_guide/fcoe_over_fex.pdf)*.
 Features are FCoE support for Fabric Extender, FEX Active-Active, vPC/MLAG, Phy-Port vPC, and FabricPath.
 Also delivers Linux *[LXC container based NXOS ISSU](https://blogs.cisco.com/datacenter/data-center-high-availability-redefined)* support for FCoE services, KLMs on N9000 ToR switches.
 
@@ -42,9 +42,9 @@ Also delivers Linux *[LXC container based NXOS ISSU](https://blogs.cisco.com/dat
 :   *Core Router Developer* for **[Juniper Networks, Inc.](http://www.juniper.net/)**
 
 As Individual Contributor, develops control-plane infra, inter-chassis topology monitoring, chassis management
-and protocol role assignment for **[PTX family](https://www.juniper.net/uk/en/products-services/routing/ptx-series/)**
-multi-chassis core router. Develops *the fault detection, isolation, and recovery framework* for high-speed SERDES
-based ASIC interconnects in **[T-series standalone](http://www.juniper.net/uk/en/products-services/routing/t4000/)** products.
+and protocol role assignment for *[PTX family](https://www.juniper.net/uk/en/products-services/routing/ptx-series/)*
+multi-chassis core router. Develops the **fault detection, isolation, and recovery framework** for high-speed SERDES
+based ASIC interconnects in *[T-series standalone](http://www.juniper.net/uk/en/products-services/routing/t4000/)* products.
 
 - Develops innovative method of **reusing IS-IS as loop-free topo-mgmt solution** without overhead of STP
 
@@ -53,34 +53,34 @@ based ASIC interconnects in **[T-series standalone](http://www.juniper.net/uk/en
 
 As a Technical Leader, delivers **\#2** carrier-grade and **\#2** enterprise-grade solutions mentoring a **team of 6**.
 
-- **[FastPath SCTP](http://www.radisys.com/2010/continuous-computing-optimizes-trillium-sctp-fast-path-to-achieve-unprecedented-10x-performance-improvement/)**
+- *[FastPath SCTP](http://www.radisys.com/2010/continuous-computing-optimizes-trillium-sctp-fast-path-to-achieve-unprecedented-10x-performance-improvement/)*
 is a carrier-grade, highly optimized, stateful gateway solution. It gives bi-di throughput of **1M pps** of 1500B
 SCTP packets over 10G links. It extends 6Wind FastPath stack on NetLogic XLR NPUs. Ravi delivers complex zero-copy
 packet forwarding & scheduler, in-place IPSec, DMA and DNS support.
 
-- **[Layer2 HA](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)**
+- *[Layer2 HA](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)*
 is an enterprise-grade network resilience solution. It gives **sub-msec** failover, weighted traffic mapping as
 hub-n-spoke, and faster convergence by VRRP enhancement. It is implemented as extension to Fulcrum ControlPoint
 on Switch and Bonding Driver enhancement on x86 Blades. Ravi delivers entire product, from ideation to deployment,
 pens white papers, customer support. It generates **>$3M** revenue.
 
-- **[FlexBalance](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)** is an enterprise-grade
+- *[FlexBalance](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)* is an enterprise-grade
 server load balancer. It does **statistical hashing** of traffic marked by **L4 flows**, MPLS tags, physical port-groups
 using DWRR & CBQ schedulers. It is implemented as pattern-match & scheduler enhancement using FFU, TCAM. Ravi delivers
 entire product from code to docs single handedly, works with architect and QA in different geographies, helps in
 deployment, customer support. Huge commercial success, generated **>$8M** in revenue, and helped in more than **12 design wins**.
 
-- **[FlexTCA](http://www.businesswire.com/news/home/20090901005489/en/Continuous-Computing-Launches-FlexTCA-3.0-Enhanced-DPI)**
+- *[FlexTCA](http://www.businesswire.com/news/home/20090901005489/en/Continuous-Computing-Launches-FlexTCA-3.0-Enhanced-DPI)*
 is a carrier-grade, service availability product that pre-integrates Trillium stacks with GoAhead Saffire middleware to run
 out-of-box on ATCA chassis. It implements OAM interface over SNMP & Web, Compute blade resilience using SAF SAI, Protocol
 HA using DFTHA layer, Control plane HA using SAF checkpoint service, and Chassis management using SAF HPI. Ravi is responsible
 for design, code and testing of **complex SAF-Trillium integration layer** that represents core value-add of product offering.
 
 2004 - 2006
-:   *Freelance Developer* for various [Bangalore based startups](https://rkks.github.io/resume.html#freelance-consultations)
+:   *Freelance Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#freelance-consultations)**
 
 As a Technology Consultant for Bangalore based startups, he has helped in feasibility analysis **by prototyping**,
-**solving design challenges**, implementation nits, **critical bugs for timebound resolution**, and optimization.
+**solving design challenges**, implementation nits, **timebound resolution of critical bugs**, and **optimization**.
 Majority work is ghost-writing, no attribution. References are provided when possible. Contact me, for details.
 
 Open Source Contributions
@@ -92,17 +92,18 @@ Open Source Contributions
 
 Freelance Consultations
 -----------------------
-- SCTP based out-of-box, stateful, **[L4 load-balancer design](http://www.lisletech.com/)** for SS7 tunneling and services protocols.
-- **[Line-rate IPSec Security Gateway](www.stoke.com)** optimization and debugging. It uses Netlogic XLP NPUs for LC.
-- Fix critical kernel bugs for **[real-time mirroring file-system](http://go.ccpu.com/upSuite)** and related resilience infra on Solaris servers.
-- **[J2ME Mobile App and Web platform](http://sakhatech.com/)** for seemless sync of mobile DB to central server over internet.
-- **[MANET protos](https://github.com/rkks/play/)** for ad-hoc mobile gaming, sensor protos using Gumstix SBC for agri sector.
-- AJAX integration for **[HR Management Web App](http://www.talentplus.com/)** using Java frameworks viz. Struts, Spring, JSP.
+- SCTP based out-of-box, stateful, *[L4 load-balancer design](http://www.lisletech.com/)* for SS7 tunneling and services protocols.
+- *[Line-rate IPSec Encryption Gateway](www.stoke.com)* optimization and debugging packet-path. It uses Netlogic XLP NPUs.
+- LTE ENodeB stack porting, optimization on low-powered *[Mindspeed ARM processors](http://www.businesswire.com/news/home/20120611005536/en/Mindspeed-Announces-High-Performance-Multi-Core-ARM-Cortex-A-CPU-Based)* using 4GMX OS.
+- Fix critical kernel bugs for *[real-time mirroring file-system](http://go.ccpu.com/upSuite)* and related resilience infra on Solaris servers.
+- *[J2ME Mobile App and JSF Web platform](http://sakhatech.com/)* for seemless sync of mobile DB to Cloud server over internet.
+- *[MANET protos](https://github.com/rkks/play/)* for ad-hoc mobile gaming without internet, sensor protos using Gumstix for agri sector.
+- AJAX/xmlhttprequest & DOM integration for *[HR Management Java Web App](http://www.talentplus.com/)*. Used are Struts, Spring, JSP.
 
 ----
 
-*Curious coder*, who works under *tight deadlines*, **automates as hobby**, listens to understand, **gets job done**.
-**13 yrs** in industry, **4** blockbuster products, >**$28M** revenue, **#1** in academia, **827+** bugs, **2** papers, ... counting
+**Curious coder**, who works under *tight deadlines*, **automates as hobby**, *listens to understand*, **gets job done**.
+**13 yrs** in industry, **4** blockbuster products, >**$28M** in revenue, **#1** in academia, **827+** bugs solved, **2** papers, .....
 
 **NOTE:** This resume is generated using markdown text, pandoc. Latest updated resume is at: [html](https://rkks.github.io/resume.html),
 [pdf](https://rkks.github.io/resume.pdf), [docx](https://rkks.github.io/resume.docx)
