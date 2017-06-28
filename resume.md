@@ -79,8 +79,8 @@ for design, code and testing of **complex SAF-Trillium integration layer** that 
 2004 - 2006
 :   *Freelance Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#freelance-consultations)**
 
-As a Technology Consultant for Bangalore based startups, he has helped in feasibility analysis **by prototyping**,
-**solving design challenges**, implementation nits, **timebound resolution of critical bugs**, and **optimization**.
+As a Technology Consultant, he has helped in **feasibility analysis by prototyping**, **solving design challenges**,
+implementation nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
 Majority work is ghost-writing, no attribution. References are provided when possible. Contact me, for details.
 
 Open Source Contributions
