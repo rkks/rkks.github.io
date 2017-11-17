@@ -4,25 +4,26 @@ Ravikiran K.S.
 
 ----
 
-Ravi is **programmer, author,** and **tech evangelist** residing in Bangalore. Over 13 years of **hands-on** career,
-he has developed *[**#7 products**](https://rkks.github.io/resume.html#professional-summary)* from conception-to-deployment
-for companies **Cisco, Juniper, CCPU**. In academia, he **ranked #1** with **82% aggregate in Masters** under faculty of
-Computer Science at *[RD University, Jabalpur](http://www.rdunijbpin.org/)*. He **pens papers** on
-*[technology topics](https://rkks.github.io/resume.html#authored-articles)*, contributes to the
-*[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks *[tech](https://github.com/rkks)* in spare time. He is awarded **#6** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
+Ravi is **programmer, author, and freelancer** residing in Bangalore. Over 13 years of **hands-on career**, he has
+developed over **#9** *[products](https://rkks.github.io/consult.html#professional-summary)* for companies **Cisco, Juniper, CCPU**.
+He provides consultation in areas of design validation, critical bugs, scaling and optimization for startups.
+In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at **[RD University, Jabalpur](http://www.rdunijbpin.org/)**.
+He **pens papers** on *[technology topics](https://rkks.github.io/consult.html#authored-articles)*, contributes to *[open-source](https://rkks.github.io/consult.html#open-source-contributions)*, and hacks *[new techs](https://github.com/rkks)* in his spare time.
+He is awarded **#6** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
 
 ----
 
 Authored Articles
 -----------------
-- *[Increasing Carrier-Class High Availability](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)* - **[TechOnline](http://www.techonline.com/electrical-engineers/education-training/tech-papers/4137371/Increasing-Carrier-Class-Network-High-Availability)**, **[PICMG-Embedded](http://picmg.mil-embedded.com/white-papers/white-carrier-class-high-availability/)**
-- *[Load balancing between server blades within ATCA platforms](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)* - **[TelecomAsia](https://www.telecomasia.net/content/load-balancing-between-server-blades-within-atca-platforms)**, **[Radisys Blog](http://www.radisys.com/2012/load-balancing-in-atca-platforms/)**.
+- *[Increasing Carrier-Class High Availability](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)* - [TechOnline](http://www.techonline.com/electrical-engineers/education-training/tech-papers/4137371/Increasing-Carrier-Class-Network-High-Availability), [PICMG-Embedded](http://picmg.mil-embedded.com/white-papers/white-carrier-class-high-availability/)
+- *[Load balancing between server blades within ATCA platforms](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)* - [TelecomAsia](https://www.telecomasia.net/content/load-balancing-between-server-blades-within-atca-platforms), [Radisys Blog](http://www.radisys.com/2012/load-balancing-in-atca-platforms/).
 
 Core Competencies
 -----------------
 
-Linux/FreeBSD Kernel . Mirroring File-System . Network Stack . Platform Infra . High Availability . Load Balancer
-Virtualization/Docker . DPI . Bonding Driver . VNTAG . VRRP . SCTP . MLAG . FCoE . SAF. LXC . Fiber Channel
+DC Networks . Linux Kernel Network Stack . Platform Infra . Resiliency . Load Balancer . Docker . Bonding Driver
+Spring MVC . Bootstrap . AJAX . GWT . MySQL . SAHI . JSP . J2ME . CGI . JSF . Hibernate . Java . Node.js
+NXOS . JUNOS . DPI . VLAN . VNTAG . FC-NPV . VRRP . IS-IS . SCTP . MLAG . FCoE . LLDP . SAF. LXC . C
 Broadcom Trident2 . Netlogic XLR/XLP . Fulcrum Bali . 6Wind FastPath . MSPD Comcerto 2K . Proprietary ASIC
 
 Professional Summary
@@ -76,13 +77,8 @@ out-of-box on ATCA chassis. It implements OAM interface over SNMP & Web, Compute
 HA using DFTHA layer, Control plane HA using SAF checkpoint service, and Chassis management using SAF HPI. Ravi is responsible
 for design, code and testing of **complex SAF-Trillium integration layer** that represents core value-add of product offering.
 
-- *[UpSuite](http://go.ccpu.com/upSuite)* is a high-availability middleware providing fault identification, isolation,
-and recovery along with real-time file-system mirroring for Solaris based servers. It implements heartbeat framework,
-application monitoring framework, kernel file-system for mirroring, and NIC resiliency driver. Ravi is involved in doing
-upgrade of file-system to Solaris 10, supporting zones, and providing bug-fixes.
-
 2004 - 2006
-:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#consultation-jobs)**
+:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/consult.html#consultation-jobs)**
 
 As a Technology Consultant, he has helped in **feasibility analysis by prototyping**, **solving design challenges**,
 implementation nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
@@ -114,6 +110,7 @@ Consultation Jobs
 ----
 
 **Curious coder**, who delivers under *tight deadlines*, **automates as hobby**, *listens to understand*, **gets job done**.
+**13 yrs** in industry, **4** blockbuster products, >**$28M** in revenue, **#1** in academia, **827+** bugs solved, **2** papers, .....
 
-**NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/resume.html),
-[pdf](https://rkks.github.io/resume.pdf)
+**NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/consult.html),
+[pdf](https://rkks.github.io/consult.pdf)

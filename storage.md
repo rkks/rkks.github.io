@@ -5,11 +5,11 @@ Ravikiran K.S.
 ----
 
 Ravi is **programmer, author,** and **tech evangelist** residing in Bangalore. Over 13 years of **hands-on** career,
-he has developed *[**#7 products**](https://rkks.github.io/resume.html#professional-summary)* from conception-to-deployment
+he has developed *[**#7 products**](https://rkks.github.io/storage.html#professional-summary)* from conception-to-deployment
 for companies **Cisco, Juniper, CCPU**. In academia, he **ranked #1** with **82% aggregate in Masters** under faculty of
 Computer Science at *[RD University, Jabalpur](http://www.rdunijbpin.org/)*. He **pens papers** on
-*[technology topics](https://rkks.github.io/resume.html#authored-articles)*, contributes to the
-*[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks *[tech](https://github.com/rkks)* in spare time. He is awarded **#6** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
+*[technology topics](https://rkks.github.io/storage.html#authored-articles)*, contributes to the
+*[open-source](https://rkks.github.io/storage.html#open-source-contributions)*, and hacks *[tech](https://github.com/rkks)* in spare time. He is awarded **#6** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
 
 ----
 
@@ -77,12 +77,12 @@ HA using DFTHA layer, Control plane HA using SAF checkpoint service, and Chassis
 for design, code and testing of **complex SAF-Trillium integration layer** that represents core value-add of product offering.
 
 - *[UpSuite](http://go.ccpu.com/upSuite)* is a high-availability middleware providing fault identification, isolation,
-and recovery along with real-time file-system mirroring for Solaris based servers. It implements heartbeat framework,
+and recovery along with **real-time file-system mirroring** for Solaris based servers. It implements heartbeat framework,
 application monitoring framework, kernel file-system for mirroring, and NIC resiliency driver. Ravi is involved in doing
 upgrade of file-system to Solaris 10, supporting zones, and providing bug-fixes.
 
 2004 - 2006
-:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#consultation-jobs)**
+:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/storage.html#consultation-jobs)**
 
 As a Technology Consultant, he has helped in **feasibility analysis by prototyping**, **solving design challenges**,
 implementation nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
@@ -90,16 +90,16 @@ Majority work is ghost-writing, no attribution. References are provided when pos
 
 Open Source Contributions
 -------------------------
-- [Ethernet Channel Bonding Driver enhancements](https://www.kernel.org/doc/Documentation/networking/bonding.txt). Stock driver
-consumes >18% bandwidth for keep-alives. The failover time is in order of several seconds. Attempt is to reduce total bandwidth
-usage to less than 5% and improve failover time to 3msec. Also, enhance failure detection to identify external network failures.
-- [OpenSAF bug-fixes](http://devel.opensaf.org/). During bringup and performance validation of Open-SAF in initial days of release,
-had multiple bugs in the areas of tipc, sai, checkpoint and event services. Those issues are identified and fixed.
-- [OpenSolaris bug-fixes](http://www.opensolaris.org/). Real-time mirroring FS and NIC-teaming driver is built around Solaris DDI/DKI API.
-OpenSolaris announcement brings opportunity to study solaris kernel, harden our code, as well as fix bugs
-found in OpenSolaris code. Bugs around DLPI metadata, raw socket mirroring, RX-ring scheduling fixed.
-- [Random Playbook](https://github.com/rkks). Tech hacks, protos, and eval tests. Mostly used for feasibility analysis,
-for ramping up on technology, quick-n-dirty checks, and miscellaneous stuff.
+- [Ethernet Channel Bonding Driver enhancements](https://www.kernel.org/doc/Documentation/networking/bonding.txt).
+Stock driver consumes >18% bandwidth for keep-alives. The failover time is in order of several seconds. Attempt is
+to reduce total bandwidth usage to less than 5% and improve failover time to 3msec. Also, enhance failure detection
+to identify external network failures.
+- [OpenSAF bug-fixes](http://devel.opensaf.org/). During bringup and performance validation of Open-SAF in initial
+days of release, had multiple bugs in the areas of tipc, sai, checkpoint and event services. Those issues are identified
+and fixed.
+- [OpenSolaris bug-fixes](http://www.opensolaris.org/). Real-time mirroring FS and NIC-teaming driver is built around
+Solaris DDI/DKI API. OpenSolaris announcement brought opportunity to study solaris kernel, harden our code, as well as
+fix bugs found in OpenSolaris code. Bugs around DLPI metadata, raw socket mirroring, RX-ring scheduling fixed.
 
 Consultation Jobs
 -----------------
@@ -107,13 +107,10 @@ Consultation Jobs
 - *[Line-rate IPSec Encryption Gateway](http://www.stoke.com)* optimization and debugging packet-path. It uses Netlogic XLP NPUs.
 - LTE ENodeB stack porting, optimization on low-powered *[Mindspeed ARM processors](http://www.businesswire.com/news/home/20120611005536/en/Mindspeed-Announces-High-Performance-Multi-Core-ARM-Cortex-A-CPU-Based)* using 4GMX OS.
 - Fix critical kernel bugs for *[real-time mirroring file-system](http://go.ccpu.com/upSuite)* and related resilience infra on Solaris servers.
-- *[J2ME Mobile App and JSF Web platform](http://sakhatech.com/)* for seemless sync of mobile DB to Cloud server over internet.
-- *[MANET protos](https://github.com/rkks/play/)* for ad-hoc mobile gaming without internet, sensor protos using Gumstix for agri sector.
-- AJAX/xmlhttprequest & DOM integration for *[HR Management Java Web App](http://www.talentplus.com/)*. Used are Struts, Spring, JSP.
 
 ----
 
 **Curious coder**, who delivers under *tight deadlines*, **automates as hobby**, *listens to understand*, **gets job done**.
 
-**NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/resume.html),
-[pdf](https://rkks.github.io/resume.pdf)
+**NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/storage.html),
+[pdf](https://rkks.github.io/storage.pdf)
