@@ -14,8 +14,8 @@ He is awarded **#6** times for **timely delivery** of products, **solving critic
 
 Authored Articles
 -----------------
-- *[Increasing Carrier-Class High Availability](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)* - [TechOnline](http://www.techonline.com/electrical-engineers/education-training/tech-papers/4137371/Increasing-Carrier-Class-Network-High-Availability), [PICMG-Embedded](http://picmg.mil-embedded.com/white-papers/white-carrier-class-high-availability/)
-- *[Load balancing between server blades within ATCA platforms](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)* - [TelecomAsia](https://www.telecomasia.net/content/load-balancing-between-server-blades-within-atca-platforms), [Radisys Blog](http://www.radisys.com/2012/load-balancing-in-atca-platforms/).
+- *[Increasing Carrier-Class High Availability](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)* - **[TechOnline](http://www.techonline.com/electrical-engineers/education-training/tech-papers/4137371/Increasing-Carrier-Class-Network-High-Availability)**, **[PICMG-Embedded](http://picmg.mil-embedded.com/white-papers/white-carrier-class-high-availability/)**
+- *[Load balancing between server blades within ATCA platforms](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)* - **[TelecomAsia](https://www.telecomasia.net/content/load-balancing-between-server-blades-within-atca-platforms)**, **[Radisys Blog](http://www.radisys.com/2012/load-balancing-in-atca-platforms/)**.
 
 Core Competencies
 -----------------
@@ -101,8 +101,6 @@ Consultation Jobs
 - Fix critical kernel bugs for *[real-time mirroring file-system](http://go.ccpu.com/upSuite)* and related resilience infra on Solaris servers.
 
 ----
-
-**Curious coder**, who delivers under *tight deadlines*, **automates as hobby**, *listens to understand*, **gets job done**.
 
 **NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/network.html),
 [pdf](https://rkks.github.io/network.pdf)

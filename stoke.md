@@ -5,7 +5,7 @@ Ravikiran K.S.
 ----
 
 Ravi is **programmer, author, and FOSS contributor** residing in Bangalore. Over 13 years of **hands-on career**, he has developed
-*[**#7 products**](https://rkks.github.io/kernel.html#professional-summary)* from concept-to-deployment for companies **Cisco, Juniper, CCPU**. In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at
+*[**#7 network products**](https://rkks.github.io/kernel.html#professional-summary)* from concept-to-deployment for companies **Cisco, Juniper, CCPU**. In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at
 *[RD University, Jabalpur](http://www.rdunijbpin.org/)*. He **pens papers** on *[tech topics](https://rkks.github.io/kernel.html#authored-articles)*,
 contributes to the *[open-source](https://rkks.github.io/kernel.html#open-source-contributions)*, and hacks *[tech](https://github.com/rkks)* in his spare time.
 He is awarded **#6** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
@@ -20,8 +20,8 @@ Authored Articles
 Core Competencies
 -----------------
 
-Linux Kernel . Bonding Driver . Network Stack . Solaris/FreeBSD Stack . C . Platform Infra . Resiliency . Docker
-Load Balancer . NXOS . JUNOS . DPI . VNTAG . VRRP . GLDv3 . DLPI . SCTP . MLAG . FCoE . LLDP . SAF
+DC Networks . Linux Kernel NetStack . Resiliency . Load Balancer . Docker . Bonding Driver . Chassis Mgmt . C
+NXOS . JUNOS . DPI . VLAN . VNTAG . VRRP . IS-IS . SCTP . MLAG . FCoE . NPV . LLDP . SAF . LXC . STP
 Broadcom Trident2 . Netlogic XLR/XLP . Fulcrum Bali . 6Wind FastPath . MSPD Comcerto 2K . Proprietary ASIC
 
 Professional Summary
@@ -34,7 +34,7 @@ and *[N7000 DC Core](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/ne
 Features are FCoE support for Fabric Extender, FEX Active-Active, vPC/MLAG, Phy-Port vPC, and FabricPath.
 Also delivers Linux *[LXC container based NXOS ISSU](https://blogs.cisco.com/datacenter/data-center-high-availability-redefined)* support for network services, KLMs on N9K ToR switches.
 
-- Develops new feature for system-wide runtime debug tracing without affecting performance using ftrace.
+- Develops new feature for system-wide runtime debug trace logging without affecting performance.
 - Ravi is **invited for presenting it to NXOS Architecture Forum** and feature is used on all product lines.
 
 2012 - 2014
@@ -45,7 +45,12 @@ and protocol role assignment for *[PTX family](https://www.juniper.net/uk/en/pro
 multi-chassis core router. Develops the **fault detection, isolation, and recovery framework** for high-speed SERDES
 based ASIC interconnects in *[T-series standalone](http://www.juniper.net/uk/en/products-services/routing/t4000/)* products.
 
-- Develops new method of **reusing IS-IS as loop-free topo-mgmt solution** without overhead of STP
+- Develops innovative method of **reusing IS-IS as loop-free topo-mgmt solution** without overhead of STP
+
+2012 - 2012
+:   *NPU Platform Developer* for **[Stoke Networks, Inc.](http://www.stoke.com)**
+
+As Individual Contributor, develops NPU counter reaping infra, optimizes packet-processing on critical path for NPU accelerated processing, improves debuggability infra for packet-path. It uses Netlogic XLP NPUs.
 
 2007 - 2011
 :   *Network Solutions Developer* for **[Continuous Computing, Ltd.](http://www.ccpu.com/)**
@@ -75,13 +80,8 @@ out-of-box on ATCA chassis. It implements OAM interface over SNMP & Web, Compute
 HA using DFTHA layer, Control plane HA using SAF checkpoint service, and Chassis management using SAF HPI. Ravi is responsible
 for design, code and testing of **complex SAF-Trillium integration layer** that represents core value-add of product offering.
 
-- *[UpSuite](http://go.ccpu.com/upSuite)* is a high-availability middleware providing fault identification, isolation,
-and recovery along with **real-time file-system mirroring** for Solaris based servers. It implements heartbeat framework,
-application monitoring framework, kernel file-system for mirroring, and **NIC resiliency driver**. Ravi is involved in doing
-upgrade of file-system to Solaris 10, supporting zones, and providing bug-fixes.
-
 2004 - 2006
-:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/kernel.html#consultation-jobs)**
+:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/network.html#consultation-jobs)**
 
 As a Technology Consultant, he has helped in **feasibility analysis by prototyping**, **solving design challenges**,
 implementation nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
@@ -101,11 +101,10 @@ found in OpenSolaris code. Bugs around DLPI metadata, raw socket mirroring, RX-r
 Consultation Jobs
 -----------------
 - SCTP based out-of-box, stateful, *[L4 load-balancer design](http://www.lisletech.com/)* for SS7 tunneling and services protocols.
-- *[Line-rate IPSec Encryption Gateway](http://www.stoke.com)* optimization and debugging packet-path. It uses Netlogic XLP NPUs.
 - LTE ENodeB stack porting, optimization on low-powered *[Mindspeed ARM processors](http://www.businesswire.com/news/home/20120611005536/en/Mindspeed-Announces-High-Performance-Multi-Core-ARM-Cortex-A-CPU-Based)* using 4GMX OS.
 - Fix critical kernel bugs for *[real-time mirroring file-system](http://go.ccpu.com/upSuite)* and related resilience infra on Solaris servers.
 
 ----
 
-**NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/kernel.html),
-[pdf](https://rkks.github.io/kernel.pdf)
+**NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/network.html),
+[pdf](https://rkks.github.io/network.pdf)

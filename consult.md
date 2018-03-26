@@ -78,11 +78,29 @@ HA using DFTHA layer, Control plane HA using SAF checkpoint service, and Chassis
 for design, code and testing of **complex SAF-Trillium integration layer** that represents core value-add of product offering.
 
 2004 - 2006
-:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/consult.html#consultation-jobs)**
+:   *Technology Consultant* for multiple **[Bangalore based startups]**
 
-As a Technology Consultant, he has helped in **feasibility analysis by prototyping**, **solving design challenges**,
-implementation nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
+As a Technology Consultant, he has helped in **feasibility analysis (PoC)**, **solving design challenges**,
+coding nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
 Majority work is ghost-writing, no attribution. References are provided when possible. Contact me, for details.
+
+- *[TalentPlus](http://www.talentplus.com/)* is a Hiring Management web application built using JAVA/J2EE. Multiple frameworks
+are used. Jakarta Struts as business layer, Spring+Hibernate and MySQL as model layer, JSP & Javascript for view layer.
+    - Ravi adds AJAX/xmlhttprequest feature along with DOM integration for View layer
+    - Optimization of SQL queries for fast retrieval of large result-sets for generic queries
+    - Evaluation of Google GWT toolkit and SAHI test-automation frameworks for integration
+- *[Cloud Sync Platform](http://sakhatech.com/)* is a cloud-based services for seamless sync of mobile data (geo-tagged photographs,
+binary data) to Cloud server over internet. Uses Funambol as sync-server, runs J2ME application on mobile as client, and JSF/J2EE Web
+Server as data store.
+    - Ravi implements J2ME client, adds geotagging, SMS, DB compression, and sync logic to client.
+- *[Stoke SSX-5000/SSX-3000](http://www.stoke.com)* is a line-rate IPSec encryption Gateway with deployment at NTT-Japan. They use
+Netlogic XLP and Intel IXP NPUs respectively for fastpath processing of encryption/decryption using built-in crypto
+engine and fast lookup using TCAM (KBP). It uses Linux for control-plane processing.
+    - Ravi is involved in solving packet-engine issues, DMA issues, and optimization of packet-path.
+    - Ravi implements 64-bit counter infra over PCIe-aperture mapped from NPU registers onto CPU
+- *[SCTP L4 load-balancer](http://www.telaverge.com/)* is stateful SCTP proxy, which is capable of providing out-of-box transport
+load-balance for SS7 services including tunneling, session management, and identity management services.
+    - Ravi is tasked with developing workable design without any changes for applications involved.
 
 Open Source Contributions
 -------------------------
@@ -99,18 +117,14 @@ for ramping up on technology, quick-n-dirty checks, and miscellaneous stuff.
 
 Consultation Jobs
 -----------------
-- SCTP based out-of-box, stateful, *[L4 load-balancer design](http://www.lisletech.com/)* for SS7 tunneling and services protocols.
-- *[Line-rate IPSec Encryption Gateway](http://www.stoke.com)* optimization and debugging packet-path. It uses Netlogic XLP NPUs.
-- LTE ENodeB stack porting, optimization on low-powered *[Mindspeed ARM processors](http://www.businesswire.com/news/home/20120611005536/en/Mindspeed-Announces-High-Performance-Multi-Core-ARM-Cortex-A-CPU-Based)* using 4GMX OS.
 - Fix critical kernel bugs for *[real-time mirroring file-system](http://go.ccpu.com/upSuite)* and related resilience infra on Solaris servers.
-- *[J2ME Mobile App and JSF Web platform](http://sakhatech.com/)* for seemless sync of mobile DB to Cloud server over internet.
 - *[MANET protos](https://github.com/rkks/play/)* for ad-hoc mobile gaming without internet, sensor protos using Gumstix for agri sector.
-- AJAX/xmlhttprequest & DOM integration for *[HR Management Java Web App](http://www.talentplus.com/)*. Used are Struts, Spring, JSP.
+- *[LTE ENodeB on Mindspeed ARM processors](http://www.businesswire.com/news/home/20120611005536/en/Mindspeed-Announces-High-Performance-Multi-Core-ARM-Cortex-A-CPU-Based)* using 4GMX OS. Mindspeed has ARM family of processors with very low power usage. U-CPU/L-CPU dual
+CPU achitecture is suitable for distributing Phy and stack layers across two different CPUs, both of which are connected by a message
+bus.
+    - Ravi is tasked with porting, optimization of stack on these low-powered devices
 
 ----
-
-**Curious coder**, who delivers under *tight deadlines*, **automates as hobby**, *listens to understand*, **gets job done**.
-**13 yrs** in industry, **4** blockbuster products, >**$28M** in revenue, **#1** in academia, **827+** bugs solved, **2** papers, .....
 
 **NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/consult.html),
 [pdf](https://rkks.github.io/consult.pdf)

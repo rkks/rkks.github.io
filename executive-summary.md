@@ -1,28 +1,3 @@
-Ravikiran K.S.
-==============
-> ravikirandotks@gmail.com | +91.988.682.8569 | https://www.linkedin.com/in/ravikiranks/
-
-----
-
-Ravi is **programmer, author, and FOSS contributor** residing in Bangalore. Over 13 years of **hands-on career**, he has developed
-*[**#7 products**](https://rkks.github.io/kernel.html#professional-summary)* from concept-to-deployment for companies **Cisco, Juniper, CCPU**. In academia, he **ranks #1** with **82% aggregate in Masters** under faculty of Computer Science at
-*[RD University, Jabalpur](http://www.rdunijbpin.org/)*. He **pens papers** on *[tech topics](https://rkks.github.io/kernel.html#authored-articles)*,
-contributes to the *[open-source](https://rkks.github.io/kernel.html#open-source-contributions)*, and hacks *[tech](https://github.com/rkks)* in his spare time.
-He is awarded **#6** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
-
-----
-
-Authored Articles
------------------
-- *[Increasing Carrier-Class High Availability](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)* - **[TechOnline](http://www.techonline.com/electrical-engineers/education-training/tech-papers/4137371/Increasing-Carrier-Class-Network-High-Availability)**, **[PICMG-Embedded](http://picmg.mil-embedded.com/white-papers/white-carrier-class-high-availability/)**
-- *[Load balancing between server blades within ATCA platforms](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)* - **[TelecomAsia](https://www.telecomasia.net/content/load-balancing-between-server-blades-within-atca-platforms)**, **[Radisys Blog](http://www.radisys.com/2012/load-balancing-in-atca-platforms/)**.
-
-Core Competencies
------------------
-
-Linux Kernel . Bonding Driver . Network Stack . Solaris/FreeBSD Stack . C . Platform Infra . Resiliency . Docker
-Load Balancer . NXOS . JUNOS . DPI . VNTAG . VRRP . GLDv3 . DLPI . SCTP . MLAG . FCoE . LLDP . SAF
-Broadcom Trident2 . Netlogic XLR/XLP . Fulcrum Bali . 6Wind FastPath . MSPD Comcerto 2K . Proprietary ASIC
 
 Professional Summary
 --------------------
@@ -87,25 +62,3 @@ As a Technology Consultant, he has helped in **feasibility analysis by prototypi
 implementation nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
 Majority work is ghost-writing, no attribution. References are provided when possible. Contact me, for details.
 
-Open Source Contributions
--------------------------
-- [Ethernet Channel Bonding Driver enhancements](https://www.kernel.org/doc/Documentation/networking/bonding.txt). Stock driver
-consumes >18% bandwidth for keep-alives. The failover time is in order of several seconds. Attempt is to reduce total bandwidth
-usage to less than 5% and improve failover time to 3msec. Also, enhance failure detection to identify external network failures.
-- [OpenSAF bug-fixes](http://devel.opensaf.org/). During bringup and performance validation of Open-SAF in initial days of release,
-had multiple bugs in the areas of tipc, sai, checkpoint and event services. Those issues are identified and fixed.
-- [OpenSolaris bug-fixes](http://www.opensolaris.org/). Real-time mirroring FS and NIC-teaming driver is built around Solaris DDI/DKI API.
-OpenSolaris announcement brings opportunity to study solaris kernel, harden our code, as well as fix bugs
-found in OpenSolaris code. Bugs around DLPI metadata, raw socket mirroring, RX-ring scheduling fixed.
-
-Consultation Jobs
------------------
-- SCTP based out-of-box, stateful, *[L4 load-balancer design](http://www.lisletech.com/)* for SS7 tunneling and services protocols.
-- *[Line-rate IPSec Encryption Gateway](http://www.stoke.com)* optimization and debugging packet-path. It uses Netlogic XLP NPUs.
-- LTE ENodeB stack porting, optimization on low-powered *[Mindspeed ARM processors](http://www.businesswire.com/news/home/20120611005536/en/Mindspeed-Announces-High-Performance-Multi-Core-ARM-Cortex-A-CPU-Based)* using 4GMX OS.
-- Fix critical kernel bugs for *[real-time mirroring file-system](http://go.ccpu.com/upSuite)* and related resilience infra on Solaris servers.
-
-----
-
-**NOTE:** This resume is auto-generated using pandoc on markdown text. **Latest updated resume** is at: [html](https://rkks.github.io/kernel.html),
-[pdf](https://rkks.github.io/kernel.pdf)
