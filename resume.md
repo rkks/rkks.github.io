@@ -1,6 +1,7 @@
-![Ravikiran K.S.](https://rkks.github.io/RaviKS.jpg)
+Ravikiran K.S.
 ==============
 > ravikirandotks@gmail.com | +91.988.682.8569 | https://www.linkedin.com/in/ravikiranks/
+![Ravikiran KS](RaviKS.jpg "Ravikiran KS")
 
 ----
 
