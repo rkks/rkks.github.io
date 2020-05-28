@@ -1,7 +1,6 @@
-Ravikiran K.S.
+Ravikiran K.S. ![](RaviKS.jpg "Ravikiran KS"){ width=8% height=8% }
 ==============
-> ravikirandotks@gmail.com | +91.988.682.8569 | https://www.linkedin.com/in/ravikiranks/
-![Ravikiran KS](RaviKS.jpg "Ravikiran KS")
+ravikirandotks@gmail.com | +91.988.682.8569 | https://www.linkedin.com/in/ravikiranks/ | https://github.com/rkks
 
 ----
 
