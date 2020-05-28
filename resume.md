@@ -4,30 +4,35 @@ Ravikiran K.S.
 
 ----
 
-Ravi is **programmer, author,** and **tech evangelist** residing in Bangalore. Over 13 years of **hands-on** career,
-he has developed *[**#7 products**](https://rkks.github.io/resume.html#professional-summary)* from conception-to-deployment
-for companies **Cisco, Juniper, CCPU**. In academia, he **ranked #1** with **82% aggregate in Masters** under faculty of
-Computer Science at *[RD University, Jabalpur](http://www.rdunijbpin.org/)*. He **pens papers** on
-*[technology topics](https://rkks.github.io/resume.html#authored-articles)*, contributes to the
-*[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks *[tech](https://github.com/rkks)* in spare time. He is awarded **#6** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
+Ravi is **programmer, author,** and **tech evangelist** residing in *[Bangalore, IN](https://en.wikipedia.org/wiki/Bangalore)*. Over 16 years of **hands-on** career, he has developed *[**#8 products**](https://rkks.github.io/resume.html#professional-summary)* from conception-to-deployment for companies **Versa, Cisco, Juniper, CCPU**. In academia, he **ranked #1** with **82% aggregate in Masters** under faculty of Computer Science at *[RD University, Jabalpur](http://www.rdunijbpin.org/)*. He **pens papers** on *[technology topics](https://rkks.github.io/resume.html#authored-articles)*, contributes to *[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks *[tech](https://github.com/rkks)* in spare time. He is awarded **#8** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
 
 ----
 
-Authored Articles
------------------
+Authored Articles & Patents
+---------------------------
 - *[Increasing Carrier-Class High Availability](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)* - **[TechOnline](http://www.techonline.com/electrical-engineers/education-training/tech-papers/4137371/Increasing-Carrier-Class-Network-High-Availability)**, **[PICMG-Embedded](http://picmg.mil-embedded.com/white-papers/white-carrier-class-high-availability/)**
 - *[Load balancing between server blades within ATCA platforms](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)* - **[TelecomAsia](https://www.telecomasia.net/content/load-balancing-between-server-blades-within-atca-platforms)**, **[Radisys Blog](http://www.radisys.com/2012/load-balancing-in-atca-platforms/)**.
+- *Method for split-brain avoidance in sub-secondary HA systems* - USPTO Application **#16557715**
 
 Core Competencies
 -----------------
 
 Linux/FreeBSD Kernel . Mirroring File-System . Network Stack . Platform Infra . High Availability . Load Balancer
-Virtualization/Docker . DPI . Bonding Driver . VNTAG . VRRP . SCTP . MLAG . FCoE . SAF. LXC . Fiber Channel
+Virtualization/Docker . DPI . Bonding Driver . VNTAG . VRRP . SCTP . MLAG . FCoE . SAF. LXC . FC . TWAMP
 Broadcom Trident2 . Netlogic XLR/XLP . Fulcrum Bali . 6Wind FastPath . MSPD Comcerto 2K . Proprietary ASIC
 
 Professional Summary
 --------------------
-Since 2015
+Since 2018
+:   *Principle Engineer SME for HA, Infra, and IP-SLA areas* for **[Versa Networks, Ltd.](https://www.versa-networks.com/)**
+
+As Technical Leader, delivers and owns High Availability & TWAMP features on *[Versa FlexVNF SD-WAN router](https://www.versa-networks.com/products/versa-flexvnf/)*.
+Features are sub-secondary HA with sub-second failover, IP SLA measurement with **15K sessions** and **<20ms inter packet gap**, improving service-ability infra in jemalloc.
+
+- Develops innovative way to avoid split-brain in HA systems. Solution is applied for patent at USPTO.
+- Ravi is often called for **troubleshooting customer escalations**, giving tech-talks on his area of expertise.
+
+2015 - 2017
 :   *Storage Networks Developer* for **[Cisco Systems, Inc.](http://www.cisco.com/)**
 
 As Individual Contributor, delivers FEX access features on *[N9000 DC Leaf/Spine](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/FCoE/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x_chapter_0100.pdf)*
@@ -84,8 +89,8 @@ upgrade of file-system to Solaris 10, supporting zones, and providing bug-fixes.
 2004 - 2006
 :   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#consultation-jobs)**
 
-As a Technology Consultant, he has helped in **feasibility analysis by prototyping**, **solving design challenges**,
-implementation nits, **timebound resolution of critical bugs**, **optimization**, deployment engineering assistance.
+As a Technology Consultant, he has helped in **feasibility analysis, prototyping**, **solving design & coding challenges**,
+**timebound resolution of critical bugs**, **optimization**, and **deployment engineering** assistance.
 Majority work is ghost-writing, no attribution. References are provided when possible. Contact me, for details.
 
 Open Source Contributions
