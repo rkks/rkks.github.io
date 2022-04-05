@@ -4,15 +4,15 @@ ravikirandotks@gmail.com | +91.988.682.8569 | https://www.linkedin.com/in/raviki
 
 ----
 
-Ravi is **programmer, author,** and **tech evangelist** residing in *[Bangalore, IN](https://en.wikipedia.org/wiki/Bangalore)*. Over 16 years of **hands-on** career, he has developed *[**#8 products**](https://rkks.github.io/resume.html#professional-summary)* from conception-to-deployment for companies **Versa, Cisco, Juniper, CCPU**. In academia, he **ranked #1** with **82% aggregate in Masters** under faculty of Computer Science at *[RD University, Jabalpur](http://www.rdunijbpin.org/)*. He **pens papers** on *[technology topics](https://rkks.github.io/resume.html#authored-articles)*, contributes to *[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks *[tech](https://github.com/rkks)* in spare time. He is awarded **#8** times for **timely delivery** of products, **solving critical problems**, and help in securing **design wins**.
+Ravi is **programmer, author,** and **tech evangelist** residing in *[Bangalore, IN](https://en.wikipedia.org/wiki/Bangalore)*. Over 16 years of **hands-on** career, he has developed over *[**#7 products**](https://rkks.github.io/resume.html#professional-summary)* from concept-to-deployment for companies like **Versa, Cisco, Juniper & CCPU**. In academia, he **ranked #1** with **81% aggregate in Masters** under faculty of Computer Science at *[RD University, Jabalpur](http://www.rdunijbpin.org/)*. He **pens papers** on *[tech topics](https://rkks.github.io/resume.html#authored-articles)*, contributes to *[open-source](https://rkks.github.io/resume.html#open-source-contributions)*, and hacks *[tech](https://github.com/rkks)* in spare time. He is awarded **#9** times for **timely delivery**, **solving critical problems**, and help in securing **design wins**.
 
 ----
 
 Authored Articles & Patents
 ---------------------------
+- *[Method for split-brain avoidance in sub-secondary HA systems](https://patents.justia.com/patent/10972337)* - **[Versa 75th Patent](https://versa-networks.com/news/2021/versa-granted-15th-patent-extending-sase-leadership.php)**
 - *[Increasing Carrier-Class High Availability](http://www.radisys.com/2010/allot-communications-selects-continuous-computing-to-deliver-better-traffic-management-for-network-operators/)* - **[TechOnline](http://www.techonline.com/electrical-engineers/education-training/tech-papers/4137371/Increasing-Carrier-Class-Network-High-Availability)**, **[PICMG-Embedded](http://picmg.mil-embedded.com/white-papers/white-carrier-class-high-availability/)**
 - *[Load balancing between server blades within ATCA platforms](http://picmg.opensystemsmedia.com/articles/atca-load-balancing-40-gbps/)* - **[TelecomAsia](https://www.telecomasia.net/content/load-balancing-between-server-blades-within-atca-platforms)**, **[Radisys Blog](http://www.radisys.com/2012/load-balancing-in-atca-platforms/)**.
-- *Method for split-brain avoidance in sub-secondary HA systems* - USPTO Application **#16557715**
 
 Core Competencies
 -----------------
@@ -23,17 +23,17 @@ Broadcom Trident2 . Netlogic XLR/XLP . Fulcrum Bali . 6Wind FastPath . MSPD Comc
 
 Professional Summary
 --------------------
-Since 2018
-:   *Principle Engineer SME for HA, Infra, and IP-SLA areas* for **[Versa Networks, Ltd.](https://www.versa-networks.com/)**
+Since Feb/2018
+:   *Principle Engineer, SME for HA, Infra, and IP-SLA areas* at **[Versa Networks, Ltd.](https://www.versa-networks.com/)**
 
 As Technical Leader, delivers and owns High Availability & TWAMP features on *[Versa FlexVNF SD-WAN router](https://www.versa-networks.com/products/versa-flexvnf/)*.
-Features are sub-secondary HA with sub-second failover, IP SLA measurement with **15K sessions** and **<20ms inter packet gap**, improving service-ability infra in jemalloc.
+Features are sub-secondary HA with sub-second failover, IP SLA measurement with **20K sessions** and **<20ms inter packet gap**.
 
-- Develops innovative way to avoid split-brain in HA systems. Solution is applied for patent at USPTO.
+- Develops innovative way to avoid split-brain in HA systems. Solution is granted patent, USPTO #10972337.
 - Ravi is often called for **troubleshooting customer escalations**, giving tech-talks on his area of expertise.
 
-2015 - 2017
-:   *Storage Networks Developer* for **[Cisco Systems, Inc.](http://www.cisco.com/)**
+Jul/2014 - Jan/2018
+:   *Storage Networks Developer* at **[Cisco Systems, Inc.](http://www.cisco.com/)**
 
 As Individual Contributor, delivers FEX access features on *[N9000 DC Leaf/Spine](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/FCoE/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_FCoE_Configuration_Guide_7x_chapter_0100.pdf)*
 and *[N7000 DC Core](http://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus7000/sw/fcoe/config/cisco_nexus7000_fcoe_config_guide/fcoe_over_fex.pdf)* switches.
@@ -43,7 +43,7 @@ Also delivers Linux *[LXC container based NXOS ISSU](https://blogs.cisco.com/dat
 - Develops innovative feature for system-wide runtime debug trace logging without affecting performance.
 - Ravi is **invited for presenting it to NXOS Architecture Forum** and feature is used on all product lines.
 
-2012 - 2014
+May/2012 - Jun/2014
 :   *Core Router Developer* for **[Juniper Networks, Inc.](http://www.juniper.net/)**
 
 As Individual Contributor, develops control-plane infra, inter-chassis topology monitoring, chassis management
@@ -53,8 +53,16 @@ based ASIC interconnects in *[T-series standalone](http://www.juniper.net/uk/en/
 
 - Develops innovative method of **reusing IS-IS as loop-free topo-mgmt solution** without overhead of STP
 
-2007 - 2011
-:   *Network Solutions Developer* for **[Continuous Computing, Ltd.](http://www.ccpu.com/)**
+Sep/2011 - Apr/2012
+:   *Security Session Exchange Developer* for **[Stoke Networks, Inc.](http://www.stoke.com/)**
+
+As Individual Contributor, develops statistics harvest infra on Netlogic XLP processors, implements clock synchronization
+mechanisms for *[SSX3000 Security Exchange Gateway](https://www.lightreading.com/stoke-updates-gateway/d/d-id/666148)*.
+
+- Optimizes the packet-path using Netlogic XLP NPUs to achieve Line-rate IPSec Encryption Gateway.
+
+Jan/2007 - Aug/2011
+:   *Network Solutions Developer* at **[Continuous Computing, Ltd.](http://www.ccpu.com/)(CCPU)**
 
 As a Technical Leader, delivers **\#2** carrier-grade and **\#2** enterprise-grade solutions mentoring a **team of 6**.
 
@@ -84,10 +92,16 @@ for design, code and testing of **complex SAF-Trillium integration layer** that 
 - *[UpSuite](http://go.ccpu.com/upSuite)* is a high-availability middleware providing fault identification, isolation,
 and recovery along with real-time file-system mirroring for Solaris based servers. It implements heartbeat framework,
 application monitoring framework, kernel file-system for mirroring, and NIC resiliency driver. Ravi is involved in doing
-upgrade of file-system to Solaris 10, supporting zones, and providing bug-fixes.
+upgrade of file-system to Solaris 10, supporting zones, and providing bug-fixes on Solaris servers.
 
-2004 - 2006
-:   *Software Developer* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#consultation-jobs)**
+Jul/2006 - Dec/2006
+:   *Software Developer* at **[Lisle Technology Parners](http://www.lisletech.com/)**
+
+As software developer assisted in fixing bugs, optimizing DB queries, and implementing AJAX support for Struts Application Framework.
+- AJAX/xmlhttprequest & DOM integration for *[HR Management Java Web App](http://www.talentplus.com/)*. Used are Struts, Spring, JSP.
+
+Jun/2004 - Jun/2006
+:   *Software Consultant* for multiple **[Bangalore based startups](https://rkks.github.io/resume.html#consultation-jobs)**
 
 As a Technology Consultant, he has helped in **feasibility analysis, prototyping**, **solving design & coding challenges**,
 **timebound resolution of critical bugs**, **optimization**, and **deployment engineering** assistance.
@@ -108,13 +122,10 @@ for ramping up on technology, quick-n-dirty checks, and miscellaneous stuff.
 
 Consultation Jobs
 -----------------
-- SCTP based out-of-box, stateful, *[L4 load-balancer design](http://www.lisletech.com/)* for SS7 tunneling and services protocols.
-- *[Line-rate IPSec Encryption Gateway](http://www.stoke.com)* optimization and debugging packet-path. It uses Netlogic XLP NPUs.
+- SCTP based out-of-box, stateful, *[L4 load-balancer design](https://www.telavergecommunications.com/)* for SS7 tunneling and services protocols.
 - LTE ENodeB stack porting, optimization on low-powered *[Mindspeed ARM processors](http://www.businesswire.com/news/home/20120611005536/en/Mindspeed-Announces-High-Performance-Multi-Core-ARM-Cortex-A-CPU-Based)* using 4GMX OS.
-- Fix critical kernel bugs for *[real-time mirroring file-system](http://go.ccpu.com/upSuite)* and related resilience infra on Solaris servers.
 - *[J2ME Mobile App and JSF Web platform](http://sakhatech.com/)* for seemless sync of mobile DB to Cloud server over internet.
 - *[MANET protos](https://github.com/rkks/play/)* for ad-hoc mobile gaming without internet, sensor protos using Gumstix for agri sector.
-- AJAX/xmlhttprequest & DOM integration for *[HR Management Java Web App](http://www.talentplus.com/)*. Used are Struts, Spring, JSP.
 
 ----
 
