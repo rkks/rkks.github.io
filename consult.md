@@ -4,6 +4,13 @@ Freelance Consulting Engagements
 
 Ravi provides both on-demand & retainer based service in the areas of his expertise. Majority of consulting work is ghost-writing, no attribution. Payment proofs and references are provided where feasible, upon request.
 
+Feb/2018
+:   *Technology Advisor* for **[Telaverge Communications India Pvt Ltd](http://www.telaverge.com/)**
+
+*[SCTP L4 load-balancer](http://www.telavergecommunications.com/)* is stateful SCTP proxy, which is capable of providing out-of-box transport load-balance for SS7 services including tunneling, session management, and identity management services.
+
+- Ravi is tasked with developing workable design without any changes for applications involved.
+
 Jul/2004 - Dec/2006
 :   *Java Web Consultant* for **[Lisle Technology Partners India Pvt Ltd](http://www.lisletech.com/)**
 
@@ -25,11 +32,4 @@ Dec/2005 - Jan/2006
 - Implement a Desktop client that picks up the Funambol data, transforms it and pushes to Cloud App.
 
 *[MANET protos](https://github.com/rkks/play/)* for ad-hoc mobile gaming without internet, sensor protos using Gumstix for agri sector.
-
-Feb/2018
-:   *Technology Advisor* for **[Telaverge Communications India Pvt Ltd](http://www.telaverge.com/)**
-
-*[SCTP L4 load-balancer](http://www.telavergecommunications.com/)* is stateful SCTP proxy, which is capable of providing out-of-box transport load-balance for SS7 services including tunneling, session management, and identity management services.
-
-- Ravi is tasked with developing workable design without any changes for applications involved.
 
