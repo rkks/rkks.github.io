@@ -2,13 +2,15 @@
 Continuous Computing India Pvt. Ltd.
 ------------------------------------
 
-Ravi was employed as full-time employee, in the role of Lead Engineer with Continuous Computing India Pvt. Ltd., Bangalore from Feb/05/2007 to Jul/29/2011. His Employee No was 148. Continuous Computing was acquired by Radisys in July 2011. He held following designations during his tenure
+Ravi was employed as full-time employee, in the role of Lead Engineer with Continuous Computing India Pvt. Ltd., Bangalore from Feb/05/2007 to Jul/29/2011. His Employee No was 148. Continuous Computing was acquired by Radisys in July 2011. Radisys was acquired by Reliance Industries Limited (RIL) in June 2018.
 
-- Lead Engineer: 01-Feb-2011 to 29-Jul-2011
-- Senior Engineer: 01-Apr-2008 to 31-Jan-2011
-- Engineer: 05-Feb-2007 to 21-Mar-2008
+Ravi held following designations during his tenure.
 
-**Continuous Computing** (CCPU) builds off-the-shelf ATCA & CPCI compliant chassis and fab-less line-cards of different configurations for Telecom service providers. Through acquisition of *[Trillium](https://www.trillium.com/)*, they also have SS7, Diameter, VoIP, LTE, and other Telecom stacks.
+- **Lead Engineer**: 01-Feb-2011 to 29-Jul-2011
+- **Senior Engineer**: 01-Apr-2008 to 31-Jan-2011
+- **Engineer**: 05-Feb-2007 to 21-Mar-2008
+
+**Continuous Computing** (CCPU) builds off-the-shelf ATCA & Compact-PCI compliant chassis and fab-less line-cards of different configurations for Telecom service providers. Through acquisition of *[Trillium](https://www.trillium.com/)*, they also have the SS7, Diameter, VoIP, LTE, Femto Cell and other Telecom stacks. They have engineering teams in SanDiego, Shenzen, and Bangalore, whereas sales & support teams are spread throughout the globe. Third-party vendors ASIC/NPUs are used to build cost-efficient line-cards. For instance, Fulcrum Bali & Tahoe chipsets are used for building FM30 & FM40 fabric line-cards, Cavium Octeon & RMI XLR NPUs are used for bulding PP50 DPI line-cards, and Intel Nehalem architecture based CPUs for building Compute line-cards. Pigeonpoint Shelf-Manager is used for managing chassis, which includes power-rails, fans, heat/voltage sensors, backplane, other FRUs.
 
 **Responsibilities**
 

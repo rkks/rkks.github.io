@@ -5,14 +5,14 @@ Professional Summary
 Since Feb/2018
 :   *Principle Engineer, SME for HA, Infra, and IP-SLA areas* at **[Versa Networks, Ltd.](https://www.versa-networks.com/)**
 
-As a Technology Leader, delivers and owns High Availability & TWAMP features on *[Versa FlexVNF SD-WAN router](https://www.versa-networks.com/products/versa-flexvnf/)*.
-Features are sub-secondary HA with sub-second failover, IP SLA measurement with **20K sessions** and **<20ms inter packet gap**.
+As a Engineering Leader, delivers and owns High Availability, Scaling, and SLA areas on *[Versa FlexVNF SD-WAN router](https://www.versa-networks.com/products/versa-flexvnf/)*.
+Key highlights are split-brain avoidance in sub-secondary HA, SLA scaling upto **64K sessions** and performance of **<20ms inter packet gap**.
 
+- Spearheads effort to measure end-user quality-of-experience from Versa SASE Clients to Cloud Gateways.
 - Develops innovative way to avoid split-brain in HA systems. Solution is granted patent, USPTO #10972337.
-- Ravi is often called for **troubleshooting customer escalations**, for giving tech-talks on his area of expertise.
-- Helps with performance and scalability changes to meet increasing demands for higher throughput.
-- Develops solution to solve runtime information-validation to solve race-conditions between sub-secondary HA boxes.
-- Helps with periodic user data-loss and ISP circuit quality measurements of end VPN users of Versa SASE Gateway.
+- Ravi is called for **troubleshooting customer escalations** and for tech-talks on his expertise areas.
+- Helps with performance and scalability changes to meet increasing demands for **50X** higher throughput.
+- Implements feature to solve runtime config & state validation to avoid race-conditions within HA pair.
 
 Sep/2014 - Feb/2018
 :   *Storage Networks Developer* at **[Cisco Systems, Inc.](http://www.cisco.com/)**
@@ -84,8 +84,8 @@ layers across two different CPUs, both of which are connected by a message bus. 
 Jul/2004 - Jan/2007
 :   *Software Consultant* at **[Various Bangalore Startups]**
 
-As a Technology Consultant, he has helped in **feasibility analysis & prototyping/PoC**, **solving design & coding challenges**, **timebound resolution of
- critical bugs**, **Application optimization for scale & performance**, **integration of new tech** and **deployment engineering & assistance**.
+As a Technology Consultant, he has helped in **feasibility analysis, new tech integration & prototyping/PoC**, *solving design & coding challenges*,
+**timebound resolution of critical bugs**, *deployment engineering assistance*, and **Application optimization for scale & performance**.
 
 - AJAX/xmlhttprequest & DOM integration for *[HR Management Java Web App](http://www.talentplus.com/)*. Used are Struts, Spring, JSP.
 - Seamless sync of user application data to Cloud services using integration of *[Funambol](https://sourceforge.net/projects/funambol/)* sync-server and J2ME

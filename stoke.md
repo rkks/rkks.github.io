@@ -4,7 +4,7 @@ Stoke Networks Pvt. Ltd.
 
 Ravi was employed as a full-time employee, in the role of Senior Software Engineer, at Stoke Networks Pvt. Ltd., Bengaluru from Aug/08/2011 to May/02/2012. His Employee No was 9180080. Stoke Networks was acquired by Mavenir Systems in November, 2014.
 
-*[Stoke](http://www.stoke.com)* as a company builds line-rate IPSec encryption and SGSN to IP-backbone offload Gateways with deployment at NTT-Japan. They use Netlogic XLP and Intel IXP NPUs in their SSX8000 and SSX3000 products respectively, for fastpath processing of encryption/decryption using built-in crypto engine and fast lookup using TCAM (KBP). It uses QNX for control-plane processing.
+**[Stoke Networks](http://www.stoke.com)** is a vendor of LTE Security, eNodeB aggregation, Mobile data offload, Small Cell offload and Wi-Fi offload Gateways. Along with marquee investors like Sequoia, Kleiner Perkins, Samsung Ventures; they also have marquee customers like *[NTT-Docomo, Japan](http://www.nttdocomo.com/)*, *[SoftBank, Japan](http://www.softbankmobile.co.jp/corporate/en)*, and KDDI, Korea. They support line-rate IPSec encryption/decryption, IP session termination, bandwidth-control, and so on. They use Netlogic XLP and Intel IXP NPUs to build the line-cards in their SSX8000 and SSX3000 chassis respectively. They also use Cavium Nitrox crypto engine for fast & in-place encryption/decryption and fast lookup using TCAM (KBP). The QNX based StokeOS is run on x86 based Managment card for control & management plane processing.
 
 **Responsibilities**
 

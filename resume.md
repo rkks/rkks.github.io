@@ -41,14 +41,14 @@ Professional Summary
 Since Feb/2018
 :   *Principle Engineer, SME for HA, Infra, and IP-SLA areas* at **[Versa Networks, Ltd.](https://www.versa-networks.com/)**
 
-As a Technology Leader, delivers and owns High Availability & TWAMP features on *[Versa FlexVNF SD-WAN router](https://www.versa-networks.com/products/versa-flexvnf/)*.
-Features are sub-secondary HA with sub-second failover, IP SLA measurement with **20K sessions** and **<20ms inter packet gap**.
+As a Engineering Leader, delivers and owns High Availability, Scaling, and SLA areas on *[Versa FlexVNF SD-WAN router](https://www.versa-networks.com/products/versa-flexvnf/)*.
+Key highlights are split-brain avoidance in sub-secondary HA, SLA scaling upto **64K sessions** and performance of **<20ms inter packet gap**.
 
+- Spearheads effort to measure end-user quality-of-experience from Versa SASE Clients to Cloud Gateways.
 - Develops innovative way to avoid split-brain in HA systems. Solution is granted patent, USPTO #10972337.
-- Ravi is often called for **troubleshooting customer escalations**, for giving tech-talks on his area of expertise.
-- Helps with performance and scalability changes to meet increasing demands for higher throughput.
-- Develops solution to solve runtime information-validation to solve race-conditions between sub-secondary HA boxes.
-- Helps with periodic user data-loss and ISP circuit quality measurements of end VPN users of Versa SASE Gateway.
+- Ravi is called for **troubleshooting customer escalations** and for tech-talks on his expertise areas.
+- Helps with performance and scalability changes to meet increasing demands for **50X** higher throughput.
+- Implements feature to solve runtime config & state validation to avoid race-conditions within HA pair.
 
 Sep/2014 - Feb/2018
 :   *Storage Networks Developer* at **[Cisco Systems, Inc.](http://www.cisco.com/)**
@@ -120,8 +120,8 @@ layers across two different CPUs, both of which are connected by a message bus. 
 Jul/2004 - Jan/2007
 :   *Software Consultant* at **[Various Bangalore Startups]**
 
-As a Technology Consultant, he has helped in **feasibility analysis & prototyping/PoC**, **solving design & coding challenges**, **timebound resolution of
- critical bugs**, **Application optimization for scale & performance**, **integration of new tech** and **deployment engineering & assistance**.
+As a Technology Consultant, he has helped in **feasibility analysis, new tech integration & prototyping/PoC**, *solving design & coding challenges*,
+**timebound resolution of critical bugs**, *deployment engineering assistance*, and **Application optimization for scale & performance**.
 
 - AJAX/xmlhttprequest & DOM integration for *[HR Management Java Web App](http://www.talentplus.com/)*. Used are Struts, Spring, JSP.
 - Seamless sync of user application data to Cloud services using integration of *[Funambol](https://sourceforge.net/projects/funambol/)* sync-server and J2ME
@@ -132,6 +132,8 @@ Versa Networks India Pvt. Ltd.
 --------------------------------------------------
 
 Ravi is employed as a full-time employee, in the role of Principal Engineer, at Versa Networks India Pvt. Ltd., Bengaluru since Feb/21/2018. His Employee No is 1803001.
+
+**[Versa Networks](https://versa-networks.com/)** is secure SD-WAN (Software-Defined WAN) and SASE (Secure Access Service Edge) vendor, specializing in providing on-prem and cloud delivered WAN-edge interconnect and comprehensive security stack bundled into a single-pass packet processing architecture. All offerings are presented as a single pane of glass for easy, consistent, and scaled operations. All configurations are templatized, parameterized, and exposed over REST APIs. Versa is consistently named as SD-WAN leader for 3 consecutive years (2020 to 2022) and the only vendor to feature in all 3 of SD-WAN, SSE, and FWaaS Gartner magic quadrants. Startup is backed by VCs like Sequoia, Mayfield, and BlackRock. They have engineering teams in San Jose & Bangalore, whereas sales and support teams are spread throughout the globe.
 
 **Responsibilities**
 
@@ -168,6 +170,8 @@ Cisco Systems (India) Pvt. Ltd.
 
 Ravi was employed as a full-time employee, in the role of Software Engineer IV at Cisco Systems India Pvt. Ltd., Bengaluru from Sep/01/2014 to Feb/09/2018. His Employee Number was 365507.
 
+**[Cisco Systems Data Center BU](https://www.cisco.com/c/en_hk/solutions/data-center/data-center-networking.html)** is an industry leader in Data Center networking solutions that include Local Area (LAN), Wide Area (WAN), and Storage Area (SAN) Network technologies. They have in-house built feature-rich, store-n-forward, and customizable N7K family of DC switches. Through acquisition of Insieme Networks in 2013, they have ultra low-latency, cut-through, and economical N9K family of DC switches. N9K switches come with line-cards built using both in-house and Broadcom ASICs. NX-OS NOS and DCNM NMS is used on both N7K and N9K family of switches. IEEE 802.1BR standard compliant Fabric Extenders (FEX) provide higher port-density for them. The FC-over-Ethernet (FCoE) overlay protocol for carrying Fiber Channel (FC) protocol, along with other relevant infra like naming-service, spf, and so on are supported on these switches. For providing loss-less switching, the DCBX extensions to LLDP standard are used.
+
 **Responsibilities**
 
 - Conceptualization, design, development, demo to Architecture Board and release delivery of loss-less trace-logs using Linux ftrace on Cisco NXOS.
@@ -199,6 +203,8 @@ Juniper Networks India Pvt. Ltd.
 
 Ravi was employed as a full-time employee, in the role of Software Engineer 3, at Juniper Networks India Pvt. Ltd., Bengaluru from May/28/2012 to Aug/14/2014. His Employee ID was 000025951.
 
+**[Juniper Networks Core Router BU](https://www.juniper.net/us/en/products/routers/ptx-series.html)** is a well-known vendor of Core Routers for IP backbone Service Providers. T-series routers provide stackable (TX), feature-rich and low-latency routing with advanced traffic engineering capabilities for SP core. Whereas, PTX-series of routers present low power-consumption, very high throughput, and space efficient routers with advanced IP/MPLS feature-set. Both router families run FreeBSD based JunOS NOS. Juniper routers are deployed at high stakes, high bandwidth, and performance critical places like Nasdaq, London Olympics, and NEP CDN. Stacking offers value-protection by allowing same family routers to be inter-connected to act as single large router with much higher throughput & port density, while keeping management overhead to a minimum.
+
 **Responsibilities**
 
 - Design, develop, and unit testing of IS-IS protocol based multi-chassis control plane detection, loop-free topology creation & monitoring, and role assignment feature on proposed Juniper PTX Router.
@@ -225,7 +231,7 @@ Stoke Networks Pvt. Ltd.
 
 Ravi was employed as a full-time employee, in the role of Senior Software Engineer, at Stoke Networks Pvt. Ltd., Bengaluru from Aug/08/2011 to May/02/2012. His Employee No was 9180080. Stoke Networks was acquired by Mavenir Systems in November, 2014.
 
-*[Stoke](http://www.stoke.com)* as a company builds line-rate IPSec encryption and SGSN to IP-backbone offload Gateways with deployment at NTT-Japan. They use Netlogic XLP and Intel IXP NPUs in their SSX8000 and SSX3000 products respectively, for fastpath processing of encryption/decryption using built-in crypto engine and fast lookup using TCAM (KBP). It uses QNX for control-plane processing.
+**[Stoke Networks](http://www.stoke.com)** is a vendor of LTE Security, eNodeB aggregation, Mobile data offload, Small Cell offload and Wi-Fi offload Gateways. Along with marquee investors like Sequoia, Kleiner Perkins, Samsung Ventures; they also have marquee customers like *[NTT-Docomo, Japan](http://www.nttdocomo.com/)*, *[SoftBank, Japan](http://www.softbankmobile.co.jp/corporate/en)*, and KDDI, Korea. They support line-rate IPSec encryption/decryption, IP session termination, bandwidth-control, and so on. They use Netlogic XLP and Intel IXP NPUs to build the line-cards in their SSX8000 and SSX3000 chassis respectively. They also use Cavium Nitrox crypto engine for fast & in-place encryption/decryption and fast lookup using TCAM (KBP). The QNX based StokeOS is run on x86 based Managment card for control & management plane processing.
 
 **Responsibilities**
 
@@ -252,13 +258,15 @@ Ravi was employed as a full-time employee, in the role of Senior Software Engine
 Continuous Computing India Pvt. Ltd.
 ------------------------------------
 
-Ravi was employed as full-time employee, in the role of Lead Engineer with Continuous Computing India Pvt. Ltd., Bangalore from Feb/05/2007 to Jul/29/2011. His Employee No was 148. Continuous Computing was acquired by Radisys in July 2011. He held following designations during his tenure
+Ravi was employed as full-time employee, in the role of Lead Engineer with Continuous Computing India Pvt. Ltd., Bangalore from Feb/05/2007 to Jul/29/2011. His Employee No was 148. Continuous Computing was acquired by Radisys in July 2011. Radisys was acquired by Reliance Industries Limited (RIL) in June 2018.
 
-- Lead Engineer: 01-Feb-2011 to 29-Jul-2011
-- Senior Engineer: 01-Apr-2008 to 31-Jan-2011
-- Engineer: 05-Feb-2007 to 21-Mar-2008
+Ravi held following designations during his tenure.
 
-**Continuous Computing** (CCPU) builds off-the-shelf ATCA & CPCI compliant chassis and fab-less line-cards of different configurations for Telecom service providers. Through acquisition of *[Trillium](https://www.trillium.com/)*, they also have SS7, Diameter, VoIP, LTE, and other Telecom stacks.
+- **Lead Engineer**: 01-Feb-2011 to 29-Jul-2011
+- **Senior Engineer**: 01-Apr-2008 to 31-Jan-2011
+- **Engineer**: 05-Feb-2007 to 21-Mar-2008
+
+**Continuous Computing** (CCPU) builds off-the-shelf ATCA & Compact-PCI compliant chassis and fab-less line-cards of different configurations for Telecom service providers. Through acquisition of *[Trillium](https://www.trillium.com/)*, they also have the SS7, Diameter, VoIP, LTE, Femto Cell and other Telecom stacks. They have engineering teams in SanDiego, Shenzen, and Bangalore, whereas sales & support teams are spread throughout the globe. Third-party vendors ASIC/NPUs are used to build cost-efficient line-cards. For instance, Fulcrum Bali & Tahoe chipsets are used for building FM30 & FM40 fabric line-cards, Cavium Octeon & RMI XLR NPUs are used for bulding PP50 DPI line-cards, and Intel Nehalem architecture based CPUs for building Compute line-cards. Pigeonpoint Shelf-Manager is used for managing chassis, which includes power-rails, fans, heat/voltage sensors, backplane, other FRUs.
 
 **Responsibilities**
 
