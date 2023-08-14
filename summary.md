@@ -3,16 +3,16 @@ Professional Summary
 --------------------
 
 Since Feb/2018
-:   *Principle Engineer, SME for HA, Infra, and IP-SLA areas* at **[Versa Networks, Ltd.](https://www.versa-networks.com/)**
+:   *Principle Engineer, SME for Cloud Performance, HA Infra, and SLA* at **[Versa Networks, Ltd.](https://www.versa-networks.com/)**
 
-As a Engineering Leader, delivers and owns High Availability, Scaling, and SLA areas on *[Versa FlexVNF SD-WAN router](https://www.versa-networks.com/products/versa-flexvnf/)*.
-Key highlights are split-brain avoidance in sub-secondary HA, SLA scaling upto **64K sessions** and performance of **<20ms inter packet gap**.
+As a Engineering Leader, delivers and owns High Availability, I/O + Services Scaling, and SLA areas on *[Versa FlexVNF SD-WAN router](https://www.versa-networks.com/products/versa-flexvnf/)*.
+Key highlights are split-brain avoidance in sub-secondary HA, SLA scaling upto **64K sessions** with performance of **<20ms inter packet gap**.
 
+- Helps with performance and scalability changes to meet increasing demands for **20X higher throughput**.
 - Spearheads effort to measure end-user quality-of-experience from Versa SASE Clients to Cloud Gateways.
-- Develops innovative way to avoid split-brain in HA systems. Solution is granted patent, USPTO #10972337.
+- Develops innovative way to avoid split-brain in HA systems. Solution is granted patent, **USPTO #10972337**.
+- Implements feature to solve runtime config & state validation to avoid race-conditions among HA pairs.
 - Ravi is called for **troubleshooting customer escalations** and for tech-talks on his expertise areas.
-- Helps with performance and scalability changes to meet increasing demands for **50X** higher throughput.
-- Implements feature to solve runtime config & state validation to avoid race-conditions within HA pair.
 
 Sep/2014 - Feb/2018
 :   *Storage Networks Developer* at **[Cisco Systems, Inc.](http://www.cisco.com/)**
@@ -43,7 +43,6 @@ As Individual Contributor, develops statistics harvest infra on Netlogic XLP pro
 
 - Implements 64-bit counter infra over PCIe-aperture mapped from NPU registers onto Management CPU
 - Solves packet-engine and DMA issues, optimizes packet-path on XLP for higher throughput.
-
 - Optimizes the packet-path using Netlogic XLP NPUs to achieve Line-rate IPSec Encryption Gateway.
 
 Feb/2007 - Jul/2011
