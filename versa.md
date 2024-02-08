@@ -2,7 +2,11 @@
 Versa Networks India Pvt. Ltd.
 --------------------------------------------------
 
-Ravi is employed as a full-time employee, in the role of Principal Engineer, at Versa Networks India Pvt. Ltd., Bengaluru since Feb/21/2018. His Employee No is 1803001.
+Ravi is employed as a full-time employee, in the role of Senior Principal Engineer, at Versa Networks India Pvt. Ltd., Bengaluru since Feb/21/2018. His Employee No is 1803001.
+
+Ravi held following designations earlier:
+
+- **Principal Engineer**: 21-Feb-2018 to 31-Jul-2023
 
 **[Versa Networks](https://versa-networks.com/)** is secure SD-WAN (Software-Defined WAN) and SASE (Secure Access Service Edge) vendor, specializing in providing on-prem and cloud delivered WAN-edge interconnect and comprehensive security stack bundled into a single-pass packet processing architecture. All offerings are presented as a single pane of glass for easy, consistent, and scaled operations. All configurations are templatized, parameterized, and exposed over REST APIs. Versa is consistently named as SD-WAN leader for 3 consecutive years (2020 to 2022) and the only vendor to feature in all 3 of SD-WAN, SSE, and FWaaS Gartner magic quadrants. Startup is backed by VCs like Sequoia, Mayfield, and BlackRock. They have engineering teams in San Jose & Bangalore, whereas sales and support teams are spread throughout the globe.
 

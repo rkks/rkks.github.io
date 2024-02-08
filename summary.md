@@ -3,7 +3,7 @@ Professional Summary
 --------------------
 
 Since Feb/2018
-:   *Principle Engineer, SME for Cloud Performance, HA Infra, and SLA* at **[Versa Networks, Ltd.](https://www.versa-networks.com/)**
+:   *Sr. Principle Engineer, SME for Cloud Performance, HA Infra & SLA* at **[Versa Networks, Ltd.](https://www.versa-networks.com/)**
 
 As a Engineering Leader, delivers and owns High Availability, I/O + Services Scaling, and SLA areas on *[Versa FlexVNF SD-WAN router](https://www.versa-networks.com/products/versa-flexvnf/)*.
 Key highlights are split-brain avoidance in sub-secondary HA, SLA scaling upto **64K sessions** with performance of **<20ms inter packet gap**.
