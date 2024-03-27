@@ -4,7 +4,7 @@ ravikirandotks@gmail.com | +91.988.682.8569 | https://www.linkedin.com/in/raviki
 
 ----
 
-Ravi is a **programmer, author,** and **consultant** residing in *[Bangalore, IN](https://en.wikipedia.org/wiki/Bangalore)*. Over 18 years of **hands-on**
+Ravi is a **programmer, author,** and **consultant** residing in *[Bangalore, IN](https://en.wikipedia.org/wiki/Bangalore)*. Over 20 years of **hands-on**
 software development career, he has delivered over *[**#9 products**](https://rkks.github.io/resume.html#professional-summary)* from concept-to-deployment for
 companies like **Versa, Cisco, Juniper and CCPU**. In academia, he **ranked #1** with **81% aggregate in Masters** under the faculty of Computer Science at the
 *[RD University, Jabalpur](http://www.rdunijbpin.org/)*. He **pens papers** on *[tech topics](https://rkks.github.io/resume.html#authored-articles-patents)*,
